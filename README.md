@@ -1,8 +1,14 @@
-### Hello world 👋
+### Hello, world 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikmerlock97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - How to reach me: [nikolas.merlock@utsa.edu](mailto:nikolas.merlock@utsa.edu)
+
+- I’m currently working on
+* UI/component libraries
+* Image analysis software
+* MEA analysis
+* CMS software
 
 <!--
 **nikmerlock97/nikmerlock97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
