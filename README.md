@@ -6,6 +6,7 @@
 * [nikolas.merlock@utsa.edu](mailto:nikolas.merlock@utsa.edu)
 
 #### I’m currently working on:
+* [Personal portfolio website](https://nikmerlock.dev/)
 * UI/component libraries
 * Image analysis software
 * MEA analysis
