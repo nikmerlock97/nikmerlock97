@@ -10,6 +10,7 @@
 * Image analysis software
 * MEA analysis
 * CMS software
+* Gene regulatory network and cell types analysis from single-cell RNA-seq data
 
 <!--
 **nikmerlock97/nikmerlock97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
